@@ -62,8 +62,3 @@ Source code:
 
 - Linux Deploy App: <https://github.com/meefik/linuxdeploy>
 - Linux Deploy CLI: <https://github.com/meefik/linuxdeploy-cli>
-
-Donations:
-
-- E-Money: <https://meefik.github.io/donate>
-- Google Play: <https://play.google.com/store/apps/details?id=ru.meefik.donate>
