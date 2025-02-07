@@ -419,7 +419,7 @@ public class PrefStore {
         String[] path = getPath(c).split(":");
         String shell = "/system/bin/sh";
         for (String p : path) {
-            shell = p + "/sh";
+            shell = p + "/busybox sh";
             File f = new File(shell);
             if (f.exists()) break;
         }
